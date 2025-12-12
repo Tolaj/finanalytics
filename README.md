@@ -94,13 +94,13 @@ See full documentation and guidelines:
 ## 📁 Project Structure
 
 ```
-fincalc_project/
+finanalytics/
 │── README.md
 │── setup.py
 │── requirements.txt
 │── examples/
 │   └── demo_examples.py
-└── fincalc/
+└── modules/
     ├── __init__.py
     ├── time_value.py
     ├── cashflow.py

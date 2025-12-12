@@ -31,6 +31,30 @@ See full documentation and guidelines:
 
 ---
 
+
+
+## 🔧 Installation
+
+### Install dependencies
+
+```sh
+pip install -r requirements.txt
+```
+
+### Install package locally
+
+```sh
+pip install .
+```
+
+### Import in Python
+
+```python
+import finalytics
+from finalytics import time_value, cashflow, loans, depreciation, bonds, visualization
+```
+---
+
 ## 🚀 Features Overview
 
 ### ✔ 1. Time Value of Money (TVM)
@@ -115,28 +139,6 @@ finance-analytics-package/
     └── visualization.py
 ```
 
----
-
-## 🔧 Installation
-
-### Install dependencies
-
-```sh
-pip install -r requirements.txt
-```
-
-### Install package locally
-
-```sh
-pip install .
-```
-
-### Import in Python
-
-```python
-import finalytics
-from finalytics import time_value, cashflow, loans, depreciation, bonds, visualization
-```
 
 ---
 
